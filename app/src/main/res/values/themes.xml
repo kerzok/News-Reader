@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+        <!-- <item name="actionBarStyle"></item> -->
+
+
+        <!-- <item name="colorPrimary">@color/my_awesome_red</item>
+        <item name="colorPrimaryDark">@color/my_awesome_darker_red</item> -->
+
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.smelik.feedreader.ArticleActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_add_to_favourite"
+        android:title="@string/add_to_favourite"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_bookmark_outline_white_36dp" />
+
+    <item
+        android:id="@+id/menu_item_share"
+        android:showAsAction="ifRoom"
+        android:title="@string/share"
+        android:icon="@drawable/abc_ic_menu_share_mtrl_alpha"/>
+</menu>

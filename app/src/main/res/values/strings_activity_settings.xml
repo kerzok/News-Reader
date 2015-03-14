@@ -1,0 +1,68 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Generals</string>
+    <string name="pref_header_data_sync">Data &amp; Sync</string>
+
+    <string name="pref_title_sync_frequency">Period of update</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>10800000</item>
+        <item>21600000</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_volume_button_move">Volume buttons movement</string>
+    <string name="auto_remove_old_articles">Auto delete</string>
+    <string-array name="auto_remove_titles">
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>4 days</item>
+        <item>1 week</item>
+        <item>2 weeks</item>
+        <item>1 month</item>
+        <item>2 months</item>
+        <item>3 months</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="auto_remove_values">
+        <item>86400000</item>
+        <item>172800000</item>
+        <item>345600000</item>
+        <item>604800000</item>
+        <item>1209600000</item>
+        <item>2419200000</item>
+        <item>4838400000</item>
+        <item>7257600000</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="count_of_articles">Count of articles</string>
+    <string-array name="count_of_articles_title">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="count_of_articles_value">
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+    </string-array>
+</resources>

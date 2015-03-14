@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Feed reader</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_add_feed">Добавить канал</string>
+    <string name="action_settings">Настройки</string>
+    <string name="article_image_description">Изображение статьи если есть</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="date">Дата</string>
+    <string name="feed_name">Имя канала</string>
+    <string name="favourite_image_description">добавлена ли статья в избранное</string>
+    <string name="today">Сегодня, </string>
+    <string name="all_name">Все каналы</string>
+    <string name="favourite_name">Избранное</string>
+    <string name="delete_item">Удалить канал</string>
+    <string name="edit_item">Редактировать канал</string>
+    <string name="pull_to_refresh">Потяните чтобы обновить…</string>
+    <string name="refreshing">Загрузка…</string>
+    <string name="search_button">Поиск</string>
+    <string name="search_hint">Введите название канала…</string>
+    <string name="title_activity_edit_feed">Добавление нового канала</string>
+    <string name="title_section1">Ввод</string>
+    <string name="title_section2">Поиск</string>
+    <string name="address">Адрес</string>
+    <string name="name">Имя</string>
+    <string name="hint_address">(канала)</string>
+    <string name="hint_name">(не обязательно)</string>
+    <string name="add_button">Добавить канал</string>
+    <string name="edit_button">Изменить</string>
+    <string name="share">Поделиться</string>
+    <string name="title_activity_article">Статья</string>
+    <string name="add_to_favourite">Добавить в избранное</string>
+    <string name="share_via">Выберите действие</string>
+    <string name="detail" formatted="false">
+        <![CDATA[
+            <b>%s</b>
+            <br>%s</br>
+            <br>%s</br>
+            <a href=%s>Перейти на сайт</a>
+        ]]>
+    </string>
+    <string name="title_activity_edit_feed_info">Редактировать канал</string>
+    <string name="mark_all_as_read">Отметить все как прочитанное</string>
+    <string name="bad_internet_connection">Соединение с сервером прервано. Проверьте ваше интернет соединение или попробуйте позже</string>
+
+</resources>
